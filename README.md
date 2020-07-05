@@ -7,3 +7,11 @@ Have you ever found yourself wondering- "what did I even do yesterday?" I defini
 * Mindfulness: We live in a very fast-paced world, and mindfulness has never been more important in ensuring the best mental space.
 * Productivity: By exercising your mind in tracing most of your daily activities, your memory and focus in the present moment sharpens.
 * Reflection: Having your past entries available to you allows you to reflect and note progress, or note where you would like to make changes in your life.
+
+## Live App
+http://bloglife-dep.herokuapp.com/
+
+## Screenshots of App
+
+## Technologies Used
+HTML, CSS, React, Express, Node, PostgreSQL
