@@ -12,8 +12,8 @@ Have you ever found yourself wondering- "what did I even do yesterday?" I defini
 http://bloglife-dep.herokuapp.com/
 
 ## Screenshots of App
-![Screenshot of Landing Page](./screenshots/Screenshot LP.png)
-![Screenshot of App Page](./screenshots/Screenshot App.png)
+![Screenshot of Landing Page](./screenshots/ss-lp.png)
+![Screenshot of App Page](./screenshots/ss-app.png)
 
 
 ## Technologies Used
